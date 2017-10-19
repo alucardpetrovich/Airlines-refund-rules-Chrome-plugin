@@ -37,7 +37,7 @@
     "nok": "NC & only taxes after dep. Check RA/apply for taxes via call or check RA in taxes spreadsheet. no GP. Med/death issues can be applied",
     "nordwind": "Don't know. Need to call or check refund rules",
     "nouvel": "Don't know. Need to call or check refund rules",
-    "norwegian": "Cancellable. Assess RA/cancel via call(RA before/after dep. the same) (they don't care med. issue). GP up to 4 hours after purchase for usual bookings and 24 hours after purchase for US flights (in more than 7 days prior dep.)",
+    "norwegian": "Cancellable. Assess RA/cancel via call(RA before/after dep. the same) (they don't care med. issue). Also if it's Norwegian Agency booking you can check RA in Norwe agency account (full amount of taxes) or cancel reservation. GP up to 4 hours after purchase for usual bookings and 24 hours after purchase for US flights (in more than 7 days prior dep.)",
     "olympic": "Cancellation/assessment via call. Cancellable, RA in case of cancellation/no-show = taxes - 20 EUR penalty (don't know if per pap per flight or for whole booking). no GP. no info about med./death issues",
     "peach": "Cancellable (via MMB) but fully NR (because of very hight fee on taxes refunds). no GP. Med./death can be applied",
     "pobeda": "Cancellable but fully NR. no GP. Med/death issues can be applied",
