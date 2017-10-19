@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Airlines information",
+  "version": "1.0",
+
+  "description": "Useful tips about airlines refund policies",
+  "icons": {
+    "16": "16.png",
+    "32": "32.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "16": "16.png",
+      "32": "32.png",
+      "48": "48.png"
+    },
+    "default_title": "A/l's refund info",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+}
